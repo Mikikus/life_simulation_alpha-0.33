@@ -1,2 +1,6 @@
 # life_simulation_alpha-0.33
-""Life simulation""
+
+Green - Food
+Yellow - eats green
+Black - eats yellow
+Simple as expected and so works(Lol) 
